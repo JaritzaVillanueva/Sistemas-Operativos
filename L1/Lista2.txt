@@ -1,0 +1,44 @@
+19990667:VIVANCO PRADA,Maribel:maribel.vivanco@pucp.edu.pe
+20020541:GASTELU ADVÍNCULA,José Miguel:josé.gastelu@pucp.edu.pe
+20030300:MARTÍNEZ LINARES,Marco Angello:marco.martínez@pucp.edu.pe
+20030555:CORDERO PRÍNCIPE,Piere Andrés:piere.cordero@pucp.edu.pe
+20037170:BARDALEZ TORRES,Ivan:ivan.bardalez@pucp.edu.pe
+20040214:CÁCERES CHUMPITAZI,Andrea Silvia María:andrea silvia.cáceres@pucp.edu.pe
+20040319:TASATO CÁNEPA,Kenjy:kenjy.tasato@pucp.edu.pe
+20040428:HUAITA ESPINOZA,Eloisa Carolina:eloisa.huaita@pucp.edu.pe
+20042017:CHICANA VIVAR,Wilder Josue:wilder.chicana@pucp.edu.pe
+20042023:CARRIÓN TELLO,Jesús Antonio:jesús.carrión@pucp.edu.pe
+20042057:GAMARRA STAGNARO,Miguel Eduardo:miguel.gamarra@pucp.edu.pe
+20042129:MONGE VALDIVIESO,Luis Alberto:luis.monge@pucp.edu.pe
+20042291:SÁNCHEZ FIGUEROA,Mariela Rossana:mariela.sánchez@pucp.edu.pe
+20044017:SALINAS MORALES,Bertha Katherine:bertha.salinas@pucp.edu.pe
+20044054:ONOFRE RIVERA,Daysi Patricia:daysi.onofre@pucp.edu.pe
+20047001:CARRANZA HERNANDEZ,Sammy Nahin:sammy.carranza@pucp.edu.pe
+20047005:CANO CAUZO,Jesus Humberto:jesus.cano@pucp.edu.pe
+20047038:CATTER BEDOYA,Rodrigo Antonio:rodrigo.catter@pucp.edu.pe
+20047049:CORNEJO ARAMAYO,Jorge Fabrisio:jorge.cornejo@pucp.edu.pe
+20047054:AGUIRRE PABLO,Luciana Pamela:luciana.aguirre@pucp.edu.pe
+20047085:ECHEVARRIA ORE,Jairo William:jairo.echevarria@pucp.edu.pe
+20047223:ZEGARRA BALMACEDA,Omar Heráclides:omar.zegarra@pucp.edu.pe
+20047232:BUSTAMANTE HUAMANÍ,Yersy Brayam:yersy.bustamante@pucp.edu.pe
+20050308:RUÍZ TINCO,Giomar Antonio:giomar.ruíz@pucp.edu.pe
+20050338:GAMARRA MEJÍA,Arturo Sebástian:arturo.gamarra@pucp.edu.pe
+20050346:BARDALES BRAVO,Bret Bruce:bret.bardales@pucp.edu.pe
+20050361:CORNEJO CRUZ,Diana Carolina:diana.cornejo@pucp.edu.pe
+20050433:GALVEZ QUISPE,Rodolfo:rodolfo.galvez@pucp.edu.pe
+20050617:PARI PAZ,Lucia Mercedes:lucia.pari@pucp.edu.pe
+20052027:BELTRÁN DE LAMA,Julio Cesar Ivan:julio cesar.beltrán@pucp.edu.pe
+20052112:LEPAGE HOCES,Diana Estefania:diana.lepage@pucp.edu.pe
+20052159:PUMAPILLO GUTARRA,Jonathan Nicolás:jonathan.pumapillo@pucp.edu.pe
+20052172:TRIGUEROS MAKABE,Diego:diego.trigueros@pucp.edu.pe
+20052254:WONG SATO,Jorge Franco:jorge.wong@pucp.edu.pe
+20052317:SÁNCHEZ VELARDE,Daniel Rolando:daniel.sánchez@pucp.edu.pe
+20054026:PONCE ANGULO,Sergio Arturo:sergio.ponce@pucp.edu.pe
+20054065:MÁRQUEZ REDHEAD,Jorge Manuel:jorge.márquez@pucp.edu.pe
+20054066:OLIVERA FLORES,Jahir Jerico:jahir.olivera@pucp.edu.pe
+20057070:GÓMEZ DIAZ,Renzo Gonzalo:renzo.gómez@pucp.edu.pe
+20057079:DÍAZ MUGURUZA,Sheyla Abigail:sheyla.díaz@pucp.edu.pe
+20057150:ROMUCHO QUISPE,Luis Enrique:luis.romucho@pucp.edu.pe
+20057230:CARBONERO PACHECO,Magaly Isabel:magaly.carbonero@pucp.edu.pe
+20064043:TORRICO NÚÑEZ,Jorge Luis:jorge.torrico@pucp.edu.pe
+20064488:MARTINO GONZÁLEZ,Francisco Ricardo:francisco.martino@pucp.edu.pe
