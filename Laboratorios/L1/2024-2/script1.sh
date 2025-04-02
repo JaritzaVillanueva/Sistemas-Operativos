@@ -1,42 +1,37 @@
 #!/bin/bash
 
-#funcion  verificacion primo
-es_primo(){
-	local num=$1
-	local i
-	if [  $num -le 1 ]; then
-		return 1
-	fi # no es primo
-	for ((i=2; i*i<=num; i++))
+numeros(){
+	#Verificar que se ingresa 3 argumentos
+	if [[ $# != 3 ]]; then
+		echo "No se ingreso los 3 argumentos"
+		exit 1
+	fi
+
+	#variables
+	inicio=$1
+	fin=$2
+	valor=$3
+
+	#iteracion entre el rango
+	for((i=$inicio; i<=$fin; i++))
 	do
-		if [ $(( num % i )) -eq 0 ]; then
-			return  1 #no es primo
+		num=$i
+		contador=0
+		# Verificacion de cada digito
+		while [[ $num -gt 0 ]]
+		do
+			digito=$(($num % 10))
+			if [[ "$digito" == "$valor" ]]; then
+				((contador++))
+			fi
+			num=$(($num/10))
+		done
+		
+		#Verifica si tiene el valor dentro del numero
+		if [[ $contador != 0 ]]; then
+			echo "$i"
 		fi
 	done
-	return 0;
 }
 
-#Ingreso de input
-read -p "Ingresa numero 1: " num1
-read -p "Ingresa numero 2: " num2
-
-#Verificacion del mayor numero
-if [ $num1 -ge $num2 ]; then
-	mayor=$num1
-	menor=$num2
-else
-	mayor=$num2
-	menor=$num1
-fi
-
-#iteracion
-#set -x
-for((i=menor; i<=mayor; i++))
-do
-	printf "$i "
-	if es_primo $i; then
-		printf "(primo)"
-	fi
-	printf "\n"
-done
-#set  +x
+numeros $1 $2 $3
