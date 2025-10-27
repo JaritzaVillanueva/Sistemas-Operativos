@@ -13,8 +13,8 @@ Comprender los principales mecanismos internos de un sistema operativo mediante 
 
 ## 📚 Contenido de los laboratorios
 
-| Nº | Tema principal | Descripción |
-|----|----------------|-------------|
+| Nº | Tema principal |
+|----|----------------|
 | **Laboratorio 1 – Shell Scripts en Linux** | Introducción al entorno de Linux y scripting en **Bash**. Se crean y ejecutan scripts para automatizar tareas comunes del sistema. |
 | **Laboratorio 2 – Procesos y comunicación entre procesos (padre-hijo)** | Programación en **C**. Se implementa la creación de procesos con `fork()`, comunicación mediante **pipes**, y el uso de descriptores de archivos y funciones del sistema (`exec`, `dup`, `getpid`, etc.). |
 | **Laboratorio 3 – Pthreads y Sockets en Linux** | Uso de **hilos (pthreads)** para paralelismo y **sockets** para comunicación entre procesos en red. Enfatiza la sincronización y la coordinación entre hilos. |
