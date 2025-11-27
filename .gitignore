@@ -1,2 +1,10 @@
 Laboratorios/L6/imagen.lab.usb
 Laboratorios/L6/imagen.lab.usb.zip:Zone.Identifier
+*.img
+*.iso
+*.vmdk
+*.vdi
+*.bin
+*.zip
+*.rar
+*.7z
